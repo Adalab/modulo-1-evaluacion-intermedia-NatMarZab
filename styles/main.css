@@ -60,6 +60,11 @@ img {
     align-items: center;
     justify-content: space-between;
   }
+  .logo {
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
   .title {
     font-size: 40px;
   }
